@@ -1,4 +1,4 @@
-# Docker-ossec
+# Docker OSSEC
 
 Docker image for testing OSSEC
 
@@ -7,5 +7,5 @@ Docker image for testing OSSEC
 ```bash
 sudo docker build -t ossec .   # build image with OSSEC
 sudo docker images             # check image has been created
-sudo docker run --rm -it ossec
+sudo docker run --rm -it ossec # run container
 ```
