@@ -8,6 +8,6 @@ Basic docker-compose. Simple python webapp working with redis.
 sudo docker-compose up -d  # detached mode
 
 # Stop it:
-sudo docker ps # Check runing containers
+sudo docker ps               # Check running containers
 sudo docker stop <container>
 ```
