@@ -5,7 +5,7 @@ Trying a telegram bot from a container to send system info.
 ## How-to
 
 ### 1) Create a bot with BotFather in telegram
-### 2) Copy bot's tokern
+### 2) Copy bot's token
 ### 3) Create a public group and copy its link (@...)
 ### 4) Add bot to your new group
 ### 5)
